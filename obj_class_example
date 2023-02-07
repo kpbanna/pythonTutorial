@@ -16,5 +16,6 @@ class Employee:
         print("Salary:", self.salary)
 
 emp1 = Employee("Krinapal", 50000000)
+
 print(emp1.displayemp())
 
